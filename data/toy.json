@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "t102",
+        "name": "Musical Teddy Bear",
+        "price": 99,
+        "labels": [
+            "Battery Powered",
+            "Musical",
+            "Baby"
+        ],
+        "createdAt": 1635171600000,
+        "inStock": false
+    },
+    {
+        "_id": "t103",
+        "name": "Remote Control Car",
+        "price": 45,
+        "labels": [
+            "Toy",
+            "Battery Powered",
+            "On wheels"
+        ],
+        "createdAt": 1639362000000,
+        "inStock": true
+    },
+    {
+        "_id": "t104",
+        "name": "Interactive Storybook",
+        "price": 90,
+        "labels": [
+            "Book",
+            "Art",
+            "Baby"
+        ],
+        "createdAt": 1643528400000,
+        "inStock": true
+    },
+    {
+        "_id": "t105",
+        "name": "Building Blocks Set",
+        "price": 29,
+        "labels": [
+            "Puzzle",
+            "Kids"
+        ],
+        "createdAt": 1647541200000,
+        "inStock": true
+    },
+    {
+        "name": "Talking Doll",
+        "price": 150,
+        "labels": [],
+        "inStock": true,
+        "_id": "96zuP"
+    }
+]

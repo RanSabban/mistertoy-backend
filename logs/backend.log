@@ -1,0 +1,100 @@
+27.3.2024, 1:45:39 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 1:47:12 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 1:51:51 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 1:53:42 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:12:48 - INFO - path:  | data/toy.json
+27.3.2024, 2:12:48 - INFO - path:  | data/user.json
+27.3.2024, 2:12:48 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:13:06 - INFO - Toy t101 removed
+27.3.2024, 2:23:25 - INFO - path:  | data/toy.json
+27.3.2024, 2:23:25 - INFO - path:  | data/user.json
+27.3.2024, 2:23:25 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:27:16 - INFO - Toy 4RCLW removed
+27.3.2024, 2:28:08 - INFO - Toy 4RCLW removed
+27.3.2024, 2:28:25 - INFO - Toy t105 removed
+27.3.2024, 2:29:19 - INFO - Toy t105 removed
+27.3.2024, 2:29:48 - INFO - path:  | data/toy.json
+27.3.2024, 2:29:48 - INFO - path:  | data/user.json
+27.3.2024, 2:29:48 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:29:53 - INFO - Toy t105 removed
+27.3.2024, 2:30:00 - INFO - Toy t103 removed
+27.3.2024, 2:30:25 - INFO - path:  | data/toy.json
+27.3.2024, 2:30:25 - INFO - path:  | data/user.json
+27.3.2024, 2:30:25 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:30:27 - INFO - Toy t103 removed
+27.3.2024, 2:31:51 - INFO - path:  | data/toy.json
+27.3.2024, 2:31:51 - INFO - path:  | data/user.json
+27.3.2024, 2:31:51 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:32:15 - INFO - path:  | data/toy.json
+27.3.2024, 2:32:15 - INFO - path:  | data/user.json
+27.3.2024, 2:32:15 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:35:05 - INFO - path:  | data/toy.json
+27.3.2024, 2:35:05 - INFO - path:  | data/user.json
+27.3.2024, 2:35:05 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:35:40 - INFO - path:  | data/toy.json
+27.3.2024, 2:35:40 - INFO - path:  | data/user.json
+27.3.2024, 2:35:40 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:35:43 - INFO - {"_id":"t109","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
+27.3.2024, 2:38:42 - INFO - {}
+27.3.2024, 2:40:16 - INFO - {"_id":"t109","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
+27.3.2024, 2:41:13 - INFO - path:  | data/toy.json
+27.3.2024, 2:41:13 - INFO - path:  | data/user.json
+27.3.2024, 2:41:13 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:41:16 - INFO - {"_id":"t109","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
+27.3.2024, 2:42:22 - INFO - path:  | data/toy.json
+27.3.2024, 2:42:22 - INFO - path:  | data/user.json
+27.3.2024, 2:42:22 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:42:24 - INFO - {"_id":"t109","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
+27.3.2024, 2:44:07 - INFO - path:  | data/toy.json
+27.3.2024, 2:44:07 - INFO - path:  | data/user.json
+27.3.2024, 2:44:07 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:44:45 - INFO - path:  | data/toy.json
+27.3.2024, 2:44:45 - INFO - path:  | data/user.json
+27.3.2024, 2:44:45 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 2:44:47 - INFO - {"_id":"t102","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
+27.3.2024, 15:50:59 - INFO - path:  | data/toy.json
+27.3.2024, 15:50:59 - INFO - path:  | data/user.json
+27.3.2024, 15:50:59 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 15:51:08 - INFO - Toy t101 removed
+27.3.2024, 15:52:27 - INFO - path:  | data/toy.json
+27.3.2024, 15:52:27 - INFO - path:  | data/user.json
+27.3.2024, 15:52:27 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 15:53:46 - INFO - path:  | data/toy.json
+27.3.2024, 15:53:46 - INFO - path:  | data/user.json
+27.3.2024, 15:53:46 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 15:53:49 - INFO - {}
+27.3.2024, 15:53:49 - INFO - {}
+27.3.2024, 15:54:20 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
+27.3.2024, 15:54:20 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
+27.3.2024, 15:54:40 - INFO - {}
+27.3.2024, 15:54:56 - INFO - path:  | data/toy.json
+27.3.2024, 15:54:56 - INFO - path:  | data/user.json
+27.3.2024, 15:54:56 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 15:55:15 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
+27.3.2024, 15:55:15 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
+27.3.2024, 15:58:52 - INFO - path:  | data/toy.json
+27.3.2024, 15:58:52 - INFO - path:  | data/user.json
+27.3.2024, 15:58:52 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 15:59:35 - INFO - path:  | data/toy.json
+27.3.2024, 15:59:35 - INFO - path:  | data/user.json
+27.3.2024, 15:59:35 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 16:11:09 - INFO - path:  | data/toy.json
+27.3.2024, 16:11:09 - INFO - path:  | data/user.json
+27.3.2024, 16:11:09 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 16:14:02 - INFO - path:  | data/toy.json
+27.3.2024, 16:14:02 - INFO - path:  | data/user.json
+27.3.2024, 16:14:02 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 16:14:32 - INFO - {"_id":"t104","name":"Interactive Storybook","price":90,"labels":["Book","Art","Baby"],"inStock":true}
+28.3.2024, 15:38:10 - INFO - path:  | data/toy.json
+28.3.2024, 15:38:10 - INFO - path:  | data/user.json
+28.3.2024, 15:38:10 - INFO - Server listening on port http://127.0.0.1:3030/
+28.3.2024, 16:33:24 - INFO - path:  | data/toy.json
+28.3.2024, 16:33:24 - INFO - path:  | data/user.json
+28.3.2024, 16:33:24 - INFO - Server listening on port http://127.0.0.1:3030/
+28.3.2024, 16:49:00 - INFO - Toy m9XcN removed
+28.3.2024, 18:17:48 - INFO - path:  | data/toy.json
+28.3.2024, 18:17:48 - INFO - path:  | data/user.json
+28.3.2024, 18:17:48 - INFO - Server listening on port http://127.0.0.1:3030/
+28.3.2024, 19:35:12 - INFO - path:  | data/user.json
+28.3.2024, 19:35:12 - INFO - Server listening on port http://127.0.0.1:3030/
+28.3.2024, 19:35:12 - INFO - path:  | data/toy.json
