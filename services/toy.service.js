@@ -28,7 +28,7 @@ function query(filterBy = getDefaultFilter()) {
       if (filterBy.stock === 'notstock') {
         toysToReturn = toysToReturn.filter(toy => !toy.inStock)
       }
-      if (filterBy.label && filterBy.label !== 'none') {
+      if (filterBy.label && filterBy.label !== 'all') {
         toysToReturn = toysToReturn.filter(toy => toy.labels.includes(filterBy.label))
       }
       if (sortBy.createdAt){
