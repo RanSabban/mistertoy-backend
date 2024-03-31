@@ -1,124 +1,367 @@
-27.3.2024, 1:45:39 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 1:47:12 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 1:51:51 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 1:53:42 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:12:48 - INFO - path:  | data/toy.json
-27.3.2024, 2:12:48 - INFO - path:  | data/user.json
-27.3.2024, 2:12:48 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:13:06 - INFO - Toy t101 removed
-27.3.2024, 2:23:25 - INFO - path:  | data/toy.json
-27.3.2024, 2:23:25 - INFO - path:  | data/user.json
-27.3.2024, 2:23:25 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:27:16 - INFO - Toy 4RCLW removed
-27.3.2024, 2:28:08 - INFO - Toy 4RCLW removed
-27.3.2024, 2:28:25 - INFO - Toy t105 removed
-27.3.2024, 2:29:19 - INFO - Toy t105 removed
-27.3.2024, 2:29:48 - INFO - path:  | data/toy.json
-27.3.2024, 2:29:48 - INFO - path:  | data/user.json
-27.3.2024, 2:29:48 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:29:53 - INFO - Toy t105 removed
-27.3.2024, 2:30:00 - INFO - Toy t103 removed
-27.3.2024, 2:30:25 - INFO - path:  | data/toy.json
-27.3.2024, 2:30:25 - INFO - path:  | data/user.json
-27.3.2024, 2:30:25 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:30:27 - INFO - Toy t103 removed
-27.3.2024, 2:31:51 - INFO - path:  | data/toy.json
-27.3.2024, 2:31:51 - INFO - path:  | data/user.json
-27.3.2024, 2:31:51 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:32:15 - INFO - path:  | data/toy.json
-27.3.2024, 2:32:15 - INFO - path:  | data/user.json
-27.3.2024, 2:32:15 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:35:05 - INFO - path:  | data/toy.json
-27.3.2024, 2:35:05 - INFO - path:  | data/user.json
-27.3.2024, 2:35:05 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:35:40 - INFO - path:  | data/toy.json
-27.3.2024, 2:35:40 - INFO - path:  | data/user.json
-27.3.2024, 2:35:40 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:35:43 - INFO - {"_id":"t109","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
-27.3.2024, 2:38:42 - INFO - {}
-27.3.2024, 2:40:16 - INFO - {"_id":"t109","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
-27.3.2024, 2:41:13 - INFO - path:  | data/toy.json
-27.3.2024, 2:41:13 - INFO - path:  | data/user.json
-27.3.2024, 2:41:13 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:41:16 - INFO - {"_id":"t109","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
-27.3.2024, 2:42:22 - INFO - path:  | data/toy.json
-27.3.2024, 2:42:22 - INFO - path:  | data/user.json
-27.3.2024, 2:42:22 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:42:24 - INFO - {"_id":"t109","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
-27.3.2024, 2:44:07 - INFO - path:  | data/toy.json
-27.3.2024, 2:44:07 - INFO - path:  | data/user.json
-27.3.2024, 2:44:07 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:44:45 - INFO - path:  | data/toy.json
-27.3.2024, 2:44:45 - INFO - path:  | data/user.json
-27.3.2024, 2:44:45 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 2:44:47 - INFO - {"_id":"t102","name":"Remote Control Car","price":45,"labels":["Toy","Battery Powered","On wheels"],"inStock":true}
-27.3.2024, 15:50:59 - INFO - path:  | data/toy.json
-27.3.2024, 15:50:59 - INFO - path:  | data/user.json
-27.3.2024, 15:50:59 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 15:51:08 - INFO - Toy t101 removed
-27.3.2024, 15:52:27 - INFO - path:  | data/toy.json
-27.3.2024, 15:52:27 - INFO - path:  | data/user.json
-27.3.2024, 15:52:27 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 15:53:46 - INFO - path:  | data/toy.json
-27.3.2024, 15:53:46 - INFO - path:  | data/user.json
-27.3.2024, 15:53:46 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 15:53:49 - INFO - {}
-27.3.2024, 15:53:49 - INFO - {}
-27.3.2024, 15:54:20 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
-27.3.2024, 15:54:20 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
-27.3.2024, 15:54:40 - INFO - {}
-27.3.2024, 15:54:56 - INFO - path:  | data/toy.json
-27.3.2024, 15:54:56 - INFO - path:  | data/user.json
-27.3.2024, 15:54:56 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 15:55:15 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
-27.3.2024, 15:55:15 - INFO - {"name":"","price":"0","stock":"all","sortBy":{"createdAt":"-1"}}
-27.3.2024, 15:58:52 - INFO - path:  | data/toy.json
-27.3.2024, 15:58:52 - INFO - path:  | data/user.json
-27.3.2024, 15:58:52 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 15:59:35 - INFO - path:  | data/toy.json
-27.3.2024, 15:59:35 - INFO - path:  | data/user.json
-27.3.2024, 15:59:35 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 16:11:09 - INFO - path:  | data/toy.json
-27.3.2024, 16:11:09 - INFO - path:  | data/user.json
-27.3.2024, 16:11:09 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 16:14:02 - INFO - path:  | data/toy.json
-27.3.2024, 16:14:02 - INFO - path:  | data/user.json
-27.3.2024, 16:14:02 - INFO - Server listening on port http://127.0.0.1:3030/
-27.3.2024, 16:14:32 - INFO - {"_id":"t104","name":"Interactive Storybook","price":90,"labels":["Book","Art","Baby"],"inStock":true}
-28.3.2024, 15:38:10 - INFO - path:  | data/toy.json
-28.3.2024, 15:38:10 - INFO - path:  | data/user.json
-28.3.2024, 15:38:10 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 16:33:24 - INFO - path:  | data/toy.json
-28.3.2024, 16:33:24 - INFO - path:  | data/user.json
-28.3.2024, 16:33:24 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 16:49:00 - INFO - Toy m9XcN removed
-28.3.2024, 18:17:48 - INFO - path:  | data/toy.json
-28.3.2024, 18:17:48 - INFO - path:  | data/user.json
-28.3.2024, 18:17:48 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 19:35:12 - INFO - path:  | data/user.json
-28.3.2024, 19:35:12 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 19:35:12 - INFO - path:  | data/toy.json
-28.3.2024, 20:49:50 - INFO - path:  | data/toy.json
-28.3.2024, 20:49:50 - INFO - path:  | data/user.json
-28.3.2024, 20:49:50 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 21:00:58 - INFO - path:  | data/toy.json
-28.3.2024, 21:00:58 - INFO - path:  | data/user.json
-28.3.2024, 21:00:58 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 23:06:42 - INFO - path:  | data/toy.json
-28.3.2024, 23:06:42 - INFO - path:  | data/user.json
-28.3.2024, 23:06:42 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 23:09:10 - INFO - path:  | data/toy.json
-28.3.2024, 23:09:10 - INFO - path:  | data/user.json
-28.3.2024, 23:09:10 - INFO - Server listening on port http://127.0.0.1:3030/
-28.3.2024, 23:11:59 - INFO - path:  | data/toy.json
-28.3.2024, 23:11:59 - INFO - path:  | data/user.json
-28.3.2024, 23:11:59 - INFO - Server listening on port http://127.0.0.1:3030/
-29.3.2024, 0:07:46 - INFO - path:  | data/toy.json
-29.3.2024, 0:07:46 - INFO - path:  | data/user.json
-29.3.2024, 0:07:46 - INFO - Server listening on port http://127.0.0.1:3030/
-29.3.2024, 0:16:12 - INFO - path:  | data/toy.json
-29.3.2024, 0:16:12 - INFO - path:  | data/user.json
-29.3.2024, 0:16:12 - INFO - Server listening on port http://127.0.0.1:3030/
-29.3.2024, 0:32:03 - INFO - path:  | data/toy.json
-29.3.2024, 0:32:03 - INFO - path:  | data/user.json
-29.3.2024, 0:32:03 - INFO - Server listening on port http://127.0.0.1:3030/
+31.3.2024, 16:20:56 - INFO - server.js loaded... 
+31.3.2024, 16:20:56 - INFO - Server is running on port: 3030 
+31.3.2024, 16:23:27 - INFO - server.js loaded... 
+31.3.2024, 16:23:27 - INFO - Server is running on port: 3030 
+31.3.2024, 16:24:06 - INFO - server.js loaded... 
+31.3.2024, 16:24:06 - INFO - Server is running on port: 3030 
+31.3.2024, 16:24:36 - INFO - server.js loaded... 
+31.3.2024, 16:24:36 - INFO - Server is running on port: 3030 
+31.3.2024, 16:24:44 - INFO - server.js loaded... 
+31.3.2024, 16:24:44 - INFO - Server is running on port: 3030 
+31.3.2024, 16:30:35 - INFO - server.js loaded... 
+31.3.2024, 16:30:35 - INFO - Server is running on port: 3030 
+31.3.2024, 16:31:34 - INFO - server.js loaded... 
+31.3.2024, 16:31:34 - INFO - Server is running on port: 3030 
+31.3.2024, 16:31:53 - INFO - server.js loaded... 
+31.3.2024, 16:31:53 - INFO - Server is running on port: 3030 
+31.3.2024, 16:32:30 - INFO - server.js loaded... 
+31.3.2024, 16:32:30 - INFO - Server is running on port: 3030 
+31.3.2024, 16:32:33 - INFO - server.js loaded... 
+31.3.2024, 16:32:33 - INFO - Server is running on port: 3030 
+31.3.2024, 16:38:30 - INFO - server.js loaded... 
+31.3.2024, 16:38:30 - INFO - Server is running on port: 3030 
+31.3.2024, 16:38:37 - INFO - Req was made | / 
+31.3.2024, 16:38:37 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.3.2024, 16:39:37 - INFO - server.js loaded... 
+31.3.2024, 16:39:37 - INFO - Server is running on port: 3030 
+31.3.2024, 16:39:40 - INFO - Req was made | / 
+31.3.2024, 16:39:40 - DEBUG - Getting Toys | {"name":"","price":"0","stock":"all","sortBy":{"price":"-1"},"label":"all"} 
+31.3.2024, 16:39:40 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:39:40 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:39:40 - DEBUG - Getting Toys | {"name":"","price":"0","stock":"all","sortBy":{"price":"-1"},"label":"all"} 
+31.3.2024, 16:39:40 - INFO - Req was made | / 
+31.3.2024, 16:39:40 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:39:40 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:39:50 - INFO - Req was made | / 
+31.3.2024, 16:39:50 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.3.2024, 16:40:17 - INFO - server.js loaded... 
+31.3.2024, 16:40:17 - INFO - Server is running on port: 3030 
+31.3.2024, 16:40:21 - INFO - server.js loaded... 
+31.3.2024, 16:40:21 - INFO - Server is running on port: 3030 
+31.3.2024, 16:40:21 - INFO - Req was made | / 
+31.3.2024, 16:40:21 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:40:21 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:40:21 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:41:19 - INFO - server.js loaded... 
+31.3.2024, 16:41:19 - INFO - Server is running on port: 3030 
+31.3.2024, 16:41:21 - INFO - Req was made | / 
+31.3.2024, 16:41:21 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:41:21 - ERROR - cannot find toys | TypeError: collection.toArray is not a function 
+31.3.2024, 16:41:21 - ERROR - Failed to get toys | TypeError: collection.toArray is not a function 
+31.3.2024, 16:41:22 - INFO - Req was made | / 
+31.3.2024, 16:41:22 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:41:22 - ERROR - cannot find toys | TypeError: collection.toArray is not a function 
+31.3.2024, 16:41:22 - ERROR - Failed to get toys | TypeError: collection.toArray is not a function 
+31.3.2024, 16:41:46 - INFO - server.js loaded... 
+31.3.2024, 16:41:46 - INFO - Server is running on port: 3030 
+31.3.2024, 16:41:50 - INFO - Req was made | / 
+31.3.2024, 16:41:50 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:41:50 - ERROR - cannot find toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:41:50 - ERROR - Failed to get toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:41:50 - INFO - server.js loaded... 
+31.3.2024, 16:41:50 - INFO - Server is running on port: 3030 
+31.3.2024, 16:41:56 - INFO - Req was made | / 
+31.3.2024, 16:41:56 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:41:56 - ERROR - cannot find toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:41:56 - ERROR - Failed to get toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:41:56 - INFO - Req was made | / 
+31.3.2024, 16:41:56 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:41:56 - ERROR - cannot find toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:41:56 - ERROR - Failed to get toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:42:10 - INFO - Req was made | / 
+31.3.2024, 16:42:10 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:42:10 - ERROR - Failed to get toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:42:10 - ERROR - cannot find toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:45:32 - INFO - Req was made | / 
+31.3.2024, 16:45:32 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:45:32 - ERROR - Failed to get toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:45:32 - ERROR - cannot find toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:45:35 - INFO - Req was made | / 
+31.3.2024, 16:45:35 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:45:35 - ERROR - Failed to get toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:45:35 - ERROR - cannot find toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:45:35 - INFO - Req was made | / 
+31.3.2024, 16:45:35 - ERROR - Failed to get toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:45:35 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:45:35 - ERROR - cannot find toys | ReferenceError: criteria is not defined 
+31.3.2024, 16:46:09 - INFO - server.js loaded... 
+31.3.2024, 16:46:09 - INFO - Server is running on port: 3030 
+31.3.2024, 16:46:11 - INFO - Req was made | / 
+31.3.2024, 16:46:11 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:46:11 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:11 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:11 - INFO - Req was made | / 
+31.3.2024, 16:46:11 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:46:11 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:11 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:32 - INFO - Req was made | / 
+31.3.2024, 16:46:32 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:46:32 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:32 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:33 - INFO - Req was made | / 
+31.3.2024, 16:46:33 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:46:33 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:33 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:34 - INFO - Req was made | / 
+31.3.2024, 16:46:34 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:46:34 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:34 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:35 - INFO - Req was made | / 
+31.3.2024, 16:46:35 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:46:35 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:35 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:45 - INFO - Req was made | / 
+31.3.2024, 16:46:45 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:46:45 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:46:45 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:47:00 - INFO - Req was made | / 
+31.3.2024, 16:47:00 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:47:00 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:47:00 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:47:00 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:47:00 - INFO - Req was made | / 
+31.3.2024, 16:47:00 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:47:00 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:49:33 - INFO - Req was made | / 
+31.3.2024, 16:49:33 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:49:33 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:49:33 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:16 - INFO - server.js loaded... 
+31.3.2024, 16:50:16 - INFO - Server is running on port: 3030 
+31.3.2024, 16:50:19 - INFO - Req was made | / 
+31.3.2024, 16:50:19 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:50:19 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:19 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:20 - INFO - server.js loaded... 
+31.3.2024, 16:50:20 - INFO - Server is running on port: 3030 
+31.3.2024, 16:50:30 - INFO - server.js loaded... 
+31.3.2024, 16:50:30 - INFO - Server is running on port: 3030 
+31.3.2024, 16:50:33 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:50:33 - INFO - Req was made | / 
+31.3.2024, 16:50:33 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:33 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:36 - INFO - Req was made | / 
+31.3.2024, 16:50:36 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:50:36 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:36 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:36 - INFO - Req was made | / 
+31.3.2024, 16:50:36 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:50:36 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:50:36 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:51:32 - INFO - Req was made | / 
+31.3.2024, 16:51:32 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:51:32 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:51:32 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:51:33 - INFO - Req was made | / 
+31.3.2024, 16:51:33 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:51:33 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:51:33 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:51:38 - INFO - Req was made | / 
+31.3.2024, 16:51:38 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:51:38 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:51:38 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:53:24 - INFO - server.js loaded... 
+31.3.2024, 16:53:24 - INFO - Server is running on port: 3030 
+31.3.2024, 16:53:28 - INFO - Req was made | / 
+31.3.2024, 16:53:28 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:53:28 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:53:28 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:53:29 - INFO - Req was made | / 
+31.3.2024, 16:53:29 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:53:29 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+31.3.2024, 16:53:29 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+31.3.2024, 16:53:50 - INFO - server.js loaded... 
+31.3.2024, 16:53:50 - INFO - Server is running on port: 3030 
+31.3.2024, 16:54:07 - INFO - server.js loaded... 
+31.3.2024, 16:54:07 - INFO - Server is running on port: 3030 
+31.3.2024, 16:54:09 - INFO - Req was made | / 
+31.3.2024, 16:54:09 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:54:09 - INFO - Req was made | / 
+31.3.2024, 16:54:09 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:56:30 - INFO - Req was made | / 
+31.3.2024, 16:56:30 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:56:31 - INFO - Req was made | / 
+31.3.2024, 16:56:31 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:59:13 - INFO - Req was made | / 
+31.3.2024, 16:59:13 - DEBUG - Getting Toys | {} 
+31.3.2024, 16:59:14 - INFO - Req was made | / 
+31.3.2024, 16:59:14 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:00:03 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:00:03 - INFO - Req was made | / 
+31.3.2024, 17:00:03 - INFO - Req was made | / 
+31.3.2024, 17:00:03 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:07:38 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:07:38 - INFO - Req was made | / 
+31.3.2024, 17:10:10 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:10:10 - INFO - Req was made | / 
+31.3.2024, 17:10:12 - INFO - Req was made | / 
+31.3.2024, 17:10:12 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:10:12 - INFO - Req was made | / 
+31.3.2024, 17:10:12 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:19:37 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:19:37 - INFO - Req was made | / 
+31.3.2024, 17:23:38 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:23:38 - INFO - Req was made | / 
+31.3.2024, 17:23:59 - INFO - Req was made | / 
+31.3.2024, 17:23:59 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:24:02 - INFO - Req was made | / 
+31.3.2024, 17:24:02 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:24:02 - INFO - Req was made | / 
+31.3.2024, 17:24:02 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:26:58 - INFO - Req was made | / 
+31.3.2024, 17:26:58 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:26:58 - INFO - Req was made | / 
+31.3.2024, 17:26:58 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:28:29 - INFO - Req was made | / 
+31.3.2024, 17:28:29 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:28:29 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:28:29 - INFO - Req was made | / 
+31.3.2024, 17:29:10 - INFO - server.js loaded... 
+31.3.2024, 17:29:10 - INFO - Server is running on port: 3030 
+31.3.2024, 17:29:53 - INFO - server.js loaded... 
+31.3.2024, 17:29:53 - INFO - Server is running on port: 3030 
+31.3.2024, 17:30:06 - INFO - server.js loaded... 
+31.3.2024, 17:30:06 - INFO - Server is running on port: 3030 
+31.3.2024, 17:30:08 - INFO - Req was made | / 
+31.3.2024, 17:30:08 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:30:09 - INFO - Req was made | / 
+31.3.2024, 17:30:09 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:30:17 - INFO - Req was made | / 
+31.3.2024, 17:30:17 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:30:44 - INFO - server.js loaded... 
+31.3.2024, 17:30:44 - INFO - Server is running on port: 3030 
+31.3.2024, 17:30:46 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:30:46 - INFO - Req was made | / 
+31.3.2024, 17:30:46 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:30:46 - INFO - Req was made | / 
+31.3.2024, 17:31:59 - INFO - Req was made | / 
+31.3.2024, 17:31:59 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:31:59 - INFO - Req was made | / 
+31.3.2024, 17:31:59 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:03 - INFO - Req was made | / 
+31.3.2024, 17:32:03 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:03 - INFO - Req was made | / 
+31.3.2024, 17:32:03 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:27 - INFO - Req was made | / 
+31.3.2024, 17:32:27 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:27 - INFO - Req was made | / 
+31.3.2024, 17:32:27 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:31 - INFO - Req was made | / 
+31.3.2024, 17:32:31 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:31 - INFO - Req was made | / 
+31.3.2024, 17:32:31 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:34 - INFO - Req was made | / 
+31.3.2024, 17:32:34 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:34 - INFO - Req was made | / 
+31.3.2024, 17:32:34 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:34 - INFO - Req was made | / 
+31.3.2024, 17:32:34 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:35 - INFO - Req was made | / 
+31.3.2024, 17:32:35 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:35 - INFO - Req was made | / 
+31.3.2024, 17:32:35 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:35 - INFO - Req was made | / 
+31.3.2024, 17:32:35 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:36 - INFO - Req was made | / 
+31.3.2024, 17:32:36 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:37 - INFO - Req was made | / 
+31.3.2024, 17:32:37 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:38 - INFO - Req was made | / 
+31.3.2024, 17:32:38 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:41 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:32:41 - INFO - Req was made | / 
+31.3.2024, 17:32:41 - INFO - Req was made | / 
+31.3.2024, 17:32:41 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:35:09 - INFO - server.js loaded... 
+31.3.2024, 17:35:09 - INFO - Server is running on port: 3030 
+31.3.2024, 17:35:12 - INFO - Req was made | / 
+31.3.2024, 17:35:12 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:35:12 - INFO - Req was made | / 
+31.3.2024, 17:35:12 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:35:27 - INFO - Req was made | / 
+31.3.2024, 17:35:27 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:35:27 - INFO - Req was made | / 
+31.3.2024, 17:35:27 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:36:46 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:36:46 - INFO - Req was made | / 
+31.3.2024, 17:36:52 - INFO - Req was made | / 
+31.3.2024, 17:36:52 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:36:57 - INFO - Req was made | / 
+31.3.2024, 17:36:57 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:36:58 - INFO - Req was made | / 
+31.3.2024, 17:36:58 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:37:33 - INFO - Req was made | / 
+31.3.2024, 17:37:33 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:37:39 - INFO - Req was made | / 
+31.3.2024, 17:37:39 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:37:39 - INFO - Req was made | / 
+31.3.2024, 17:37:39 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:37:54 - INFO - Req was made | / 
+31.3.2024, 17:37:54 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:37:55 - INFO - Req was made | / 
+31.3.2024, 17:37:55 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:44:07 - INFO - Req was made | / 
+31.3.2024, 17:44:07 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:44:54 - INFO - Req was made | / 
+31.3.2024, 17:44:54 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:45:36 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:45:36 - INFO - Req was made | / 
+31.3.2024, 17:45:38 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:45:38 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:45:42 - INFO - Req was made | / 
+31.3.2024, 17:45:42 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:45:42 - INFO - Req was made | / 
+31.3.2024, 17:45:42 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:45:43 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:45:43 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:47:49 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:47:49 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:49:01 - INFO - Req was made | / 
+31.3.2024, 17:49:01 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:49:04 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:49:04 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:50:34 - INFO - server.js loaded... 
+31.3.2024, 17:50:34 - INFO - Server is running on port: 3030 
+31.3.2024, 17:50:36 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:50:36 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:52:59 - INFO - Req was made | / 
+31.3.2024, 17:52:59 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:54:12 - INFO - server.js loaded... 
+31.3.2024, 17:54:12 - INFO - Server is running on port: 3030 
+31.3.2024, 17:54:14 - INFO - Req was made | / 
+31.3.2024, 17:54:14 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:54:14 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:54:14 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:54:14 - INFO - Req was made | / 
+31.3.2024, 17:54:14 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:54:44 - INFO - server.js loaded... 
+31.3.2024, 17:54:44 - INFO - Server is running on port: 3030 
+31.3.2024, 17:54:46 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:54:46 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:55:30 - INFO - server.js loaded... 
+31.3.2024, 17:55:30 - INFO - Server is running on port: 3030 
+31.3.2024, 17:55:33 - INFO - server.js loaded... 
+31.3.2024, 17:55:33 - INFO - Server is running on port: 3030 
+31.3.2024, 17:55:35 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:55:35 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:55:51 - INFO - server.js loaded... 
+31.3.2024, 17:55:51 - INFO - Server is running on port: 3030 
+31.3.2024, 17:55:58 - INFO - server.js loaded... 
+31.3.2024, 17:55:58 - INFO - Server is running on port: 3030 
+31.3.2024, 17:56:00 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:56:00 - ERROR - Failed to Login Error: Invalid username or password 
+31.3.2024, 17:56:06 - INFO - server.js loaded... 
+31.3.2024, 17:56:07 - INFO - Server is running on port: 3030 
+31.3.2024, 17:57:14 - INFO - server.js loaded... 
+31.3.2024, 17:57:14 - INFO - Server is running on port: 3030 
+31.3.2024, 17:58:01 - DEBUG - auth.service - signup with username: admin, fullname: admin 
+31.3.2024, 17:58:01 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$RUFey3ILG47U3MoZ.qhx3..YK1JNEXNJ1lLOrRpO.Q5SDef.qw6Ay","fullname":"admin","score":0,"_id":"660979f9d32b8c449b36d456"} 
+31.3.2024, 17:58:01 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 17:58:39 - INFO - Req was made | / 
+31.3.2024, 17:58:39 - DEBUG - Getting Toys | {} 
+31.3.2024, 17:58:40 - INFO - Req was made | / 
+31.3.2024, 17:58:40 - DEBUG - Getting Toys | {} 
+31.3.2024, 18:01:28 - INFO - Req was made | / 
+31.3.2024, 18:01:28 - DEBUG - Getting Toys | {} 
+31.3.2024, 18:01:29 - INFO - Req was made | / 
+31.3.2024, 18:01:29 - DEBUG - Getting Toys | {} 
