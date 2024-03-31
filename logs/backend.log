@@ -365,3 +365,20 @@
 31.3.2024, 18:01:28 - DEBUG - Getting Toys | {} 
 31.3.2024, 18:01:29 - INFO - Req was made | / 
 31.3.2024, 18:01:29 - DEBUG - Getting Toys | {} 
+31.3.2024, 19:34:05 - INFO - server.js loaded... 
+31.3.2024, 19:34:05 - INFO - Server is running on port: 3030 
+31.3.2024, 19:34:09 - INFO - Req was made | / 
+31.3.2024, 19:34:09 - DEBUG - Getting Toys | {} 
+31.3.2024, 19:34:09 - INFO - Req was made | / 
+31.3.2024, 19:34:09 - DEBUG - Getting Toys | {} 
+31.3.2024, 19:34:14 - DEBUG - auth.service - login with username: admin 
+31.3.2024, 19:34:14 - INFO - User login:  | {"_id":"660979f9d32b8c449b36d456","username":"admin","fullname":"admin","score":0,"isAdmin":true} 
+31.3.2024, 19:34:33 - DEBUG - auth.service - signup with username: admin1, fullname: puki muki 
+31.3.2024, 19:34:33 - DEBUG - auth.service - login with username: admin1 
+31.3.2024, 19:34:33 - DEBUG - auth.route - new account created: {"username":"admin1","password":"$2b$10$GwoQlErbcq4CL56HeVbRguT7utKO6.ZaCq.69kXULNddVIjio0ts6","fullname":"puki muki","score":0,"_id":"66099099d780275241ff42d4"} 
+31.3.2024, 19:35:34 - INFO - Req was made | / 
+31.3.2024, 19:35:34 - DEBUG - Getting Toys | {} 
+31.3.2024, 19:47:24 - INFO - Req was made | / 
+31.3.2024, 19:47:24 - DEBUG - Getting Toys | {} 
+31.3.2024, 19:47:25 - INFO - Req was made | / 
+31.3.2024, 19:47:25 - DEBUG - Getting Toys | {} 
